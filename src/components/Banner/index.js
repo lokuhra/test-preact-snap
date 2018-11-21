@@ -1,5 +1,5 @@
 import React from 'preact-compat';
-import SearchBox from "../SearchBox";
+import SearchBox from "../DatePicker";
 import FakeData from "../Fakedata";
 
 export default () => (
