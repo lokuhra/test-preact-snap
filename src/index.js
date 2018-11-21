@@ -1,5 +1,6 @@
 import React from 'preact-compat';
 import './style.css';
+import './_datepicker.css';
 import App from './components/App';
 import preact from 'preact-compat';
 import * as serviceWorker from './serviceWorker';
